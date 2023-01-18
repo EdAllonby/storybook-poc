@@ -5,7 +5,7 @@
   border-radius: 3em;
   cursor: pointer;
   display: inline-block;
-  line-height: 2;
+  line-height: 4;
 }
 .storybook-button--primary {
   color: white;
